@@ -58,3 +58,9 @@ This project was developed as part of a university project and implements a full
 
 This is a console-based game and uses text-mode rendering through the Irvine32 library.
 
+
+
+\## Screenshots
+
+
+

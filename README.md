@@ -1,60 +1,69 @@
-\# Brick Breaker in x86 Assembly
+# Brick Breaker Game (x86 Assembly)
 
+## Description
+A complete multi-level Brick Breaker game developed in x86 Assembly using MASM and the Irvine32 library. The project features progressive difficulty scaling, power-up mechanics, collision detection systems, score tracking, and interactive menu navigation.
 
+---
 
-\## Overview
+## Features
+- Three progressively difficult levels
+- Dynamic ball and paddle mechanics
+- Collision detection system
+- Power-up system with timed effects
+- Pause and resume functionality
+- High score tracking
+- Win and Game Over screens
+- Interactive menu and HUD system
 
-A console-based Brick Breaker game developed in x86 Assembly using MASM and the Irvine32 library.
+---
 
+## Technologies Used
+- x86 Assembly Language
+- MASM
+- Irvine32 Library
 
+---
 
-This project was developed as part of a university project and implements a fully playable multi-level game entirely in assembly language.
+## Key Concepts Applied
+- Low-level game logic implementation
+- State management
+- Collision detection
+- Random number generation
+- Modular procedure-based architecture
+- Real-time input handling
+- Memory and register management
 
+---
 
+## Gameplay Systems
+### Level Progression
+- Increasing ball speed
+- Shrinking paddle size
+- Different brick layouts
 
-\## Features
+### Power-Up Mechanics
+- Slow Ball
+- Extra Life
+- Big Paddle
 
-\- 3 playable levels
+### Score System
+- Real-time score updates
+- Top-5 high score table
+- Player name tracking
 
-\- Ball and paddle physics
+---
 
-\- Brick collision system
+## Role & Contribution
+Contributed to game loop implementation, ball movement logic, collision handling, and level transition systems during collaborative development.
 
-\- Power-up system
+---
 
-\- High score table
+## Installation & Running
+1. Open the project in MASM with Irvine32 configured
+2. Assemble and link the source files
+3. Run the generated executable
 
-\- Pause functionality
+---
 
-\- Win and Game Over screens
-
-\- Menu navigation system
-
-
-
-\## Technologies Used
-
-\- x86 Assembly
-
-\- MASM
-
-\- Irvine32 Library
-
-\- Visual Studio
-
-
-
-\## Controls
-
-\- Left / Right Arrow Keys → Move Paddle
-
-\- P → Pause/Resume
-
-\- Enter → Select Menu Options
-
-
-
-\## Notes
-
-This is a console-based game and uses text-mode rendering through the Irvine32 library.
-
+## Notes
+The project was developed as part of a collaborative academic game development assignment focusing on low-level programming concepts and real-time game mechanics.

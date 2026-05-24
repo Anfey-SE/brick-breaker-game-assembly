@@ -67,16 +67,16 @@ Contributed to game loop implementation, ball movement logic, collision handling
 ## Screenshots
 
 ### Home Screen
-![Home Screen](images/game_home-screen.png)
+![Home Screen](Images/game_home-screen.png)
 
 ### Main Menu
-![Main Menu](images/main-menu-screen.png)
+![Main Menu](Images/main-menu-screen.png)
 
 ### Name Input Screen
-![Name Input Screen](images/name_input-screen.png)
+![Name Input Screen](Images/name_input-screen.png)
 
 ### Gameplay Screen
-![Gameplay Screen](images/game-play-screen.png)
+![Gameplay Screen](Images/game-play-screen.png)
 
 ## Notes
 The project was developed as part of a collaborative academic game development assignment focusing on low-level programming concepts and real-time game mechanics.

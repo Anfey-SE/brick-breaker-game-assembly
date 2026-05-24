@@ -64,15 +64,20 @@ Contributed to game loop implementation, ball movement logic, collision handling
 3. Run the generated executable
 
 ---
+## Screenshots
 
-<<<<<<< HEAD
+### Home Screen
+![Home Screen](images/game_home-screen.png)
 
+### Main Menu
+![Main Menu](images/main-menu-screen.png)
 
-\## Screenshots
+### Name Input Screen
+![Name Input Screen](images/name_input-screen.png)
 
+### Gameplay Screen
+![Gameplay Screen](images/game-play-screen.png)
 
-
-=======
 ## Notes
 The project was developed as part of a collaborative academic game development assignment focusing on low-level programming concepts and real-time game mechanics.
 >>>>>>> 49806679ac5c523aeb00f98a6715174c00128cf0
